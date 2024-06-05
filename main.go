@@ -1,7 +1,8 @@
 package main
 
 func main() {
-	funWithPointers()
+	mainLissajousServer()
+	// funWithPointers()
 }
 
 func funWithPointers() {
